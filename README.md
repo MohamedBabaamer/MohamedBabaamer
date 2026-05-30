@@ -37,7 +37,7 @@
 - 👯 I’m looking to collaborate on **UniDash and UI-heavy product work**
 - 🤝 I’m interested in **scalable frontend architecture and maintainable design systems**
 - 💬 Ask me about **React, Vue, GSAP, Tailwind, and clean UI design**
-- 📫 Email: **mohamedbabaamer86@gmail.com**
+- 📫 Email: **Available on request**
 - 📞 Phone: **Available on request**
 - ⚡ Fun fact: *I automate boring stuff, then spend twice the time polishing the UI*
 
