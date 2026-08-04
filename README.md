@@ -59,6 +59,7 @@
 |---|---|---|---|
 | React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap | Node.js, PHP, Python, Java, MySQL, SQLite, Firebase | Flutter, Dart, Kotlin, React Native, Android | Git, GitHub, Postman, Figma, Photoshop, Linux, Bash, Matlab |
 
+**Animated icons:**
 <p align="center">
   <a href="https://techstack-generator.vercel.app/" target="_blank">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
@@ -70,24 +71,6 @@
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
   </a>
   <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
   </a>
   <a href="https://techstack-generator.vercel.app/" target="_blank">
@@ -97,44 +80,38 @@
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
   </a>
   <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/sqlite-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/android-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
   </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/photoshop-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="icon" width="80" height="80" />
-  </a>
+</p>
+
+**More stack icons:**
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,nodejs,php,sqlite,firebase,flutter,dart,kotlin,androidstudio,git,postman,figma,photoshop,linux,bash&theme=dark" alt="More Skills" />
+</p>
+
+**Other tools & libraries:**
+<p align="center">
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+**Everything else (skill-icons):**
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,nodejs,php,sqlite,firebase,flutter,dart,kotlin,androidstudio,git,postman,figma,photoshop,linux,bash&theme=dark" alt="More Skills" />
 </p>
 
 <p align="center">
