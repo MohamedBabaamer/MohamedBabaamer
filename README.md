@@ -173,6 +173,7 @@ I move between **web interfaces, mobile applications, backend services, database
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:22d3ee,100:050816&height=3" alt="Divider line" width="100%" height="3">
 
+
 <a id="builds"></a>
 
 ## ╔═══ 🚀 Featured Builds ═══╗
@@ -181,17 +182,17 @@ I move between **web interfaces, mobile applications, backend services, database
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:2563eb&height=100&text=VOXLEARN&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Voxlearn banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:2563eb&height=100&text=VOXLEARN&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Voxlearn banner" width="100%" height="100">
 
-<h3>🎓 Voxlearn</h3>
+### 🎓 Voxlearn
 <b>University Academic Platform</b>
 
 <p>React + TypeScript + Firebase platform for organizing university courses and study resources with student and administration workflows.</p>
 
 <p>
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=111827" height="30">
-<img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Firebase-11-FFCA28?style=flat-square&logo=firebase&logoColor=111827" height="30">
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" height="28">
+<img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28">
+<img src="https://img.shields.io/badge/Firebase-11-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase" height="28">
 </p>
 
 <a href="https://voxlearn.netlify.app/">🌐 Live Demo</a> ·
@@ -201,17 +202,17 @@ I move between **web interfaces, mobile applications, backend services, database
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:7c3aed&height=100&text=NEBRA&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Nebra banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:7c3aed&height=100&text=NEBRA&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Nebra banner" width="100%" height="100">
 
-<h3>🌌 Nebra</h3>
+### 🌌 Nebra
 <b>AI Communication Assistant</b>
 
-<p>Flutter project exploring speech-to-text, contextual reply suggestions, on-device AI, multilingual UX, and accessible communication flows.</p>
+<p>Flutter application exploring speech-to-text, contextual reply suggestions, on-device AI, multilingual UX, and accessible communication flows.</p>
 
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Riverpod-54B6E8?style=flat-square" height="30">
-<img src="https://img.shields.io/badge/Gemma-On--Device%20AI-8E75FF?style=flat-square" height="30">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="28">
+<img src="https://img.shields.io/badge/Riverpod-54B6E8?style=flat-square" alt="Riverpod" height="28">
+<img src="https://img.shields.io/badge/Gemma-On--Device%20AI-8E75FF?style=flat-square" alt="Gemma" height="28">
 </p>
 
 <a href="https://github.com/MohamedBabaamer/Nebra">💻 Source</a>
@@ -222,40 +223,42 @@ I move between **web interfaces, mobile applications, backend services, database
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:16a34a&height=100&text=NOKTI&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Nokti banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:16a34a&height=100&text=NOKTI&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Nokti banner" width="100%" height="100">
 
-<h3>🎯 Nokti</h3>
+### 🎯 Nokti
 <b>Student Academic Progress</b>
 
-<p>Web application for grades, credits, academic history, forecasts, and study planning under the LMD model.</p>
+<p>Academic grade and progress system for credits, history, forecasts, semester calculations, and study planning under the LMD model.</p>
 
 <p>
-<img src="https://img.shields.io/badge/React-3178C6?style=flat-square&logo=react&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/React-3178C6?style=flat-square&logo=react&logoColor=white" alt="React" height="28">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" height="28">
 </p>
 
 <a href="https://noqti.netlify.app/">🌐 Web App</a> ·
 <a href="https://github.com/MohamedBabaamer/Nokti">💻 Source</a>
 
+<br><br>
+<b>📱 Mobile</b> · <a href="https://github.com/MohamedBabaamer/nokti-app">Nokti App</a> · <a href="https://github.com/MohamedBabaamer/NoktiData">NoktiData</a>
+
 </td>
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:14b8a6&height=100&text=NOKTI%20APP&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Nokti App banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:f97316&height=100&text=FIXMY&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="FixMy banner" width="100%" height="100">
 
-<h3>📱 Nokti App</h3>
-<b>Flutter Mobile Version</b>
+### 🛠️ FixMy
+<b>Local Service Marketplace</b>
 
-<p>Mobile academic grade calculator and progress tracker backed by shared curriculum and localization data.</p>
+<p>Bilingual Android marketplace for discovering and booking local home-service professionals with location filtering, profiles, requests, scheduling, and reviews.</p>
 
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" height="28">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase" height="28">
 </p>
 
-<a href="https://github.com/MohamedBabaamer/nokti-app">💻 Source</a> ·
-<a href="https://github.com/MohamedBabaamer/NoktiData">📚 Data</a>
+<a href="https://github.com/MohamedBabaamer/FixMy">💻 Source</a>
 
 </td>
 </tr>
@@ -263,112 +266,112 @@ I move between **web interfaces, mobile applications, backend services, database
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:0ea5e9&height=100&text=APPHUB&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="AppHub banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:db2777&height=100&text=ANIMAL2VET&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Animal2Vet banner" width="100%" height="100">
 
-<h3>🖥️ AppHub</h3>
-<b>Windows Application Manager</b>
+### 🐾 Animal2VetApp
+<b>Pet & Veterinary Visit Manager</b>
 
-<p>Desktop software manager with a curated app catalog, search, batch operations, and multiple installation strategies.</p>
+<p>Dark-mode Android application for tracking animals and veterinary visits with category navigation and full CRUD workflows.</p>
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" height="28">
+<img src="https://img.shields.io/badge/Material%203-6750A4?style=flat-square" alt="Material 3" height="28">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" height="28">
 </p>
 
-<a href="https://github.com/MohamedBabaamer/AppHub">💻 Source</a>
+<a href="https://github.com/MohamedBabaamer/Animal2VetApp">💻 Source</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:22c55e&height=100&text=BYTO&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="byto banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:8b5cf6&height=100&text=QUOTY&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Quoty banner" width="100%" height="100">
 
-<h3>🧰 byto</h3>
-<b>Desktop Media Downloader</b>
+### ✍️ Quoty
+<b>Motivational Quotes App</b>
 
-<p>Go + Wails application with a React frontend, download queues, parallel processing, and media metadata workflows.</p>
+<p>Minimal Flutter application for discovering and sharing motivational quotes, with Material 3 UI and API-powered quote content.</p>
 
 <p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" height="30">
-<img src="https://img.shields.io/badge/Wails-000000?style=flat-square&logo=wails&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="28">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" height="28">
+<img src="https://img.shields.io/badge/Material%203-6750A4?style=flat-square" alt="Material 3" height="28">
 </p>
 
-<a href="https://github.com/MohamedBabaamer/byto">💻 Source</a>
+<a href="https://github.com/MohamedBabaamer/Quoty">💻 Source</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:06b6d4&height=100&text=TASKIFY&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="Taskify banner" width="100%" height="100">
+
+### ✅ Taskify
+<b>Productivity App</b>
+
+<p>Flutter productivity application designed around local-first work, cloud synchronization, customizable tasks, and multilingual UX.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="28">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827" alt="Supabase" height="28">
+<img src="https://img.shields.io/badge/Riverpod-54B6E8?style=flat-square" alt="Riverpod" height="28">
+<img src="https://img.shields.io/badge/Hive-FF9800?style=flat-square" alt="Hive" height="28">
+</p>
+
+<a href="https://github.com/MohamedBabaamer/taskify-app">💻 Source</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:16a34a&height=100&text=CATLIFE&fontColor=ffffff&fontSize=30&fontAlignY=55" alt="CatLife banner" width="100%" height="100">
+
+### 🐈 CatLife
+<b>Feline Family Archive</b>
+
+<p>Flutter + Supabase application for preserving cat profiles, family relationships, memories, timelines, health records, analytics, and multilingual archives.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="28">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827" alt="Supabase" height="28">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" height="28">
+</p>
+
+<a href="https://github.com/MohamedBabaamer/CatLife">💻 Source</a>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>📌 Live repo cards (auto-updated stars, forks & language)</b></summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/hr.webp" alt="Project section divider" width="100%" height="18">
+</p>
+
+<div align="center">
+
+<b>🖼️ Project Visual Wall</b>
+
+<br><br>
+
+<a href="https://github.com/MohamedBabaamer/Voxlearn"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,100:2563eb&height=84&text=VOXLEARN&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Voxlearn visual" width="31%" height="84"></a>
+<a href="https://github.com/MohamedBabaamer/Nebra"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,100:7c3aed&height=84&text=NEBRA&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Nebra visual" width="31%" height="84"></a>
+<a href="https://github.com/MohamedBabaamer/Nokti"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,100:16a34a&height=84&text=NOKTI&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Nokti visual" width="31%" height="84"></a>
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/MohamedBabaamer/Voxlearn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedBabaamer&repo=Voxlearn&theme=tokyonight&hide_border=true" alt="Voxlearn repo card" width="48%"></a>
-  <a href="https://github.com/MohamedBabaamer/Nebra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedBabaamer&repo=Nebra&theme=tokyonight&hide_border=true" alt="Nebra repo card" width="48%"></a>
-  <a href="https://github.com/MohamedBabaamer/Nokti"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedBabaamer&repo=Nokti&theme=tokyonight&hide_border=true" alt="Nokti repo card" width="48%"></a>
-  <a href="https://github.com/MohamedBabaamer/nokti-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedBabaamer&repo=nokti-app&theme=tokyonight&hide_border=true" alt="Nokti App repo card" width="48%"></a>
-  <a href="https://github.com/MohamedBabaamer/AppHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedBabaamer&repo=AppHub&theme=tokyonight&hide_border=true" alt="AppHub repo card" width="48%"></a>
-  <a href="https://github.com/MohamedBabaamer/byto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedBabaamer&repo=byto&theme=tokyonight&hide_border=true" alt="byto repo card" width="48%"></a>
-</p>
+<a href="https://github.com/MohamedBabaamer/FixMy"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,100:f97316&height=84&text=FIXMY&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="FixMy visual" width="31%" height="84"></a>
+<a href="https://github.com/MohamedBabaamer/Animal2VetApp"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,100:db2777&height=84&text=ANIMAL2VET&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Animal2Vet visual" width="31%" height="84"></a>
+<a href="https://github.com/MohamedBabaamer/Quoty"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,100:8b5cf6&height=84&text=QUOTY&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Quoty visual" width="31%" height="84"></a>
 
-</details>
+<br>
 
-<p align="right"><a href="#top">⬆ back to top</a></p>
+<a href="https://github.com/MohamedBabaamer/taskify-app"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,100:06b6d4&height=84&text=TASKIFY&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Taskify visual" width="31%" height="84"></a>
+<a href="https://github.com/MohamedBabaamer/Nebra"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,100:22d3ee&height=84&text=MOBILE%20%2B%20AI&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="Mobile and AI visual" width="31%" height="84"></a>
+<a href="https://github.com/MohamedBabaamer/CatLife"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,100:16a34a&height=84&text=CATLIFE&fontColor=ffffff&fontSize=24&fontAlignY=58" alt="CatLife visual" width="31%" height="84"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:22d3ee,100:050816&height=3" alt="Divider line" width="100%" height="3">
-
-## ╔═══ 🖼️ Project Gallery ═══╗
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<a href="https://voxlearn.netlify.app/">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:2563eb&height=140&text=VOXLEARN&fontColor=ffffff&fontSize=36&fontAlignY=60" alt="Voxlearn visual banner" width="95%">
-</a>
-
-<b>Academic Web Platform</b><br>
-React · TypeScript · Firebase
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://github.com/MohamedBabaamer/Nebra">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:7c3aed&height=140&text=NEBRA&fontColor=ffffff&fontSize=36&fontAlignY=60" alt="Nebra visual banner" width="95%">
-</a>
-
-<b>AI Communication</b><br>
-Flutter · Dart · AI
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<a href="https://github.com/MohamedBabaamer/AppHub">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:0ea5e9&height=140&text=APPHUB&fontColor=ffffff&fontSize=36&fontAlignY=60" alt="AppHub visual banner" width="95%">
-</a>
-
-<b>Windows App Manager</b><br>
-Python · PySide6 · Automation
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://github.com/MohamedBabaamer/byto">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:22c55e&height=140&text=BYTO&fontColor=ffffff&fontSize=36&fontAlignY=60" alt="byto visual banner" width="95%">
-</a>
-
-<b>Desktop Media Tool</b><br>
-Go · Wails · React
-
-</td>
-</tr>
-</table>
+</div>
 
 <p align="right"><a href="#top">⬆ back to top</a></p>
 
