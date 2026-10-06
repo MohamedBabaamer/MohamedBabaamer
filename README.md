@@ -345,10 +345,6 @@ I move between **web interfaces, mobile applications, backend services, database
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/hr.webp" alt="Project section divider" width="100%" height="18">
-</p>
-
 <div align="center">
 
 <b>🖼️ Project Visual Wall</b>
