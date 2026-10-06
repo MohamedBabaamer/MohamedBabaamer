@@ -1,256 +1,306 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:172554,75:2563EB,100:22D3EE&height=230&section=header&text=MOHAMED%20BABAAMER&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Build%20%7C%20Learn%20%7C%20Experiment&descSize=18&descAlignY=63&animation=fadeIn" alt="Mohamed Babaamer header" width="100%" />
+
+<a href="https://github.com/MohamedBabaamer">
+  <img src="https://img.shields.io/badge/GitHub-MohamedBabaamer-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://linkedin.com/in/mohamed-babaamer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://medium.com/@mohamedbabaamer">
+  <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MohamedBabaamer&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views">
+<img src="https://img.shields.io/github/followers/MohamedBabaamer?label=Followers&style=flat-square&color=22D3EE" alt="GitHub followers">
+<img src="https://img.shields.io/github/stars/MohamedBabaamer?affiliations=OWNER&style=flat-square&color=f59e0b&label=Stars%20Received" alt="GitHub stars">
+
+</div>
+
+---
+
+<div align="center">
+
+### Software Engineering Student · Full-Stack Builder · Mobile Developer · AI/ML Explorer
+
+I like turning university problems and everyday ideas into **working software** — from academic platforms and mobile apps to desktop utilities, data projects, automation tools, and low-level programming exercises.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 What I Build
+
+**Web & Platforms**  
+React, TypeScript, Vite, JavaScript, responsive UI, dashboards
+
+**Mobile Apps**  
+Flutter, Dart, Kotlin, Android, Material 3, local-first workflows
+
+**AI & Data**  
+Python, machine learning, data analysis, speech recognition, notebooks
+
+**Systems & CS**  
+C/C++, Java, Pascal, SQL, Flex/Bison, algorithms, networking
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ How I Work
+
+- 🧩 Start from a real problem
+- 🎨 Design the interface before over-engineering it
+- 🛠️ Build small, testable pieces
+- 📚 Use coursework as a laboratory for new technologies
+- 🔄 Refactor projects as they mature
+- 🚀 Ship practical tools, not just demos
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Map
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0e75b6,100:111827&height=200&section=header&text=Mohamed%20Babaamer&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,flutter,dart,kotlin,androidstudio,python,pytorch,sklearn,r,matlab,java,php,mysql,sqlite,firebase,supabase,c,cpp,go,git,github,linux,bash&perline=10" alt="Technology stack">
+</p>
+
+<div align="center">
+
+**Frontend** · React · TypeScript · JavaScript · HTML · CSS · Vite  
+**Mobile** · Flutter · Dart · Kotlin · Android  
+**Backend & Data** · Firebase · Supabase · PHP · MySQL · MariaDB · SQLite  
+**AI / Data Science** · Python · PyTorch · Wav2Vec2 · scikit-learn · R · MATLAB  
+**Computer Science** · C · C++ · Java · Pascal · Flex · Bison · SQL  
+**Tooling** · Git · GitHub · Linux · Bash
+
+</div>
+
+---
+
+## 🚀 Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Voxlearn
+**Academic platform**
+
+A React + TypeScript university platform backed by Firebase, with student-facing learning content and administration tooling.
+
+**Stack:** React · TypeScript · Vite · Firebase
+
+<a href="https://voxlearn.netlify.app/">Live Demo ↗</a> · <a href="https://github.com/MohamedBabaamer/Voxlearn">Repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Nebra
+**AI communication assistant**
+
+A Flutter application exploring on-device AI, speech-to-text, contextual replies, multilingual UX, and accessible communication flows.
+
+**Stack:** Flutter · Dart · Riverpod · MediaPipe · Gemma
+
+<a href="https://github.com/MohamedBabaamer/Nebra">Project ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Nokti
+**Academic progress toolkit**
+
+A student-focused grade and progress system spanning a React web app, a Flutter mobile app, and a centralized curriculum/data repository.
+
+**Stack:** React · TypeScript · Flutter · Firebase-free local data · GitHub Raw
+
+<a href="https://noqti.netlify.app/">Web App ↗</a> · <a href="https://github.com/MohamedBabaamer/NoktiData">Data Repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ AppHub
+**Windows application manager**
+
+A desktop software manager with a curated application catalog, search, batch operations, and multiple installation strategies.
+
+**Stack:** Python · PySide6 · Winget · Chocolatey · JSON
+
+<a href="https://github.com/MohamedBabaamer/AppHub">Project ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 byto
+**Desktop media downloader**
+
+A lightweight graphical front-end for yt-dlp with queues, parallel downloads, metadata handling, and a React-based interface.
+
+**Stack:** Go · React · Wails · yt-dlp
+
+<a href="https://github.com/MohamedBabaamer/byto">Repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 ML & Data Work
+**Experiments, assignments, and from-scratch implementations**
+
+Machine-learning notebooks, classification projects, clustering, PCA, recommender systems, visualization, and algorithm implementations.
+
+**Topics:** Regression · KNN · Trees · SVM · Neural Networks · PCA · Clustering
+
+<a href="https://github.com/MohamedBabaamer/ML_from_Scratch">ML from Scratch ↗</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Academic & Computer Science Lab Work
+
+My repositories also document a large part of my university development work.
+
+<table>
+<tr>
+<td valign="top">
+
+**Algorithms & Data Structures**
+- Sorting and tree visualizers
+- Linked-list based systems
+- Cipher implementations
+- Projectile / golf / parachute simulations
+- File-based management systems
+
+</td>
+<td valign="top">
+
+**Databases & Information Systems**
+- MySQL schema and query labs
+- Stored procedures and triggers
+- Transactions and isolation levels
+- Java / Pascal information-system projects
+- Advanced database mini-projects
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**AI / Data Analysis**
+- Arabic speech recognition with Wav2Vec2
+- Customer churn prediction
+- Spam detection
+- R data-analysis labs
+- MATLAB pattern-recognition labs
+- Python visualization practice
+
+</td>
+<td valign="top">
+
+**Systems & Networking**
+- Flex/Bison compiler labs
+- Custom mini-language front-end
+- Cisco Packet Tracer exercises
+- Android / Kotlin practical labs
+- C, C++, Java, and Pascal coursework
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Public Repositories Worth Exploring
+
+<p align="center">
+  <a href="https://github.com/MohamedBabaamer/byto"><img src="https://img.shields.io/badge/byto-Desktop%20Media%20Downloader-111827?style=for-the-badge&logo=github" alt="byto"></a>
+  <a href="https://github.com/MohamedBabaamer/ML_from_Scratch"><img src="https://img.shields.io/badge/ML__from__Scratch-Machine%20Learning-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="ML from Scratch"></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/main/assets/greetings.gif" alt="Greetings Animation" />
-</p>
-
-<h1 align="center">👋 Hey there, I'm Mohamed Babaamer</h1>
-<h3 align="center">🚀 Software Engineering | Frontend-Focused Developer from Algeria 🇩🇿</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;HTML+%7C+CSS+%7C+Java+%7C+Python+%7C+React+%7C+Kotlin;Open+Source+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedbabaamer&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbabaamer" />
-  <img src="https://img.shields.io/github/followers/mohamedbabaamer?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Location-Algeria%20%F0%9F%87%B0%F0%9F%87%B7-0e75b6?style=flat" alt="Location" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mohamedbabaamer?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repositories-View%20My%20Repos-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <a href="https://github.com/mohamedbabaamer/poster-downloader-v2" target="_blank"><img src="https://img.shields.io/github/repo-size/mohamedbabaamer/poster-downloader-v2?style=for-the-badge&label=Repo%20Size&color=0e75b6" alt="Repo size" /></a>
-  <a href="https://github.com/mohamedbabaamer/poster-downloader-v2" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/mohamedbabaamer/poster-downloader-v2?style=for-the-badge&label=Commit%20Activity&color=0e75b6" alt="Commit activity" /></a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mohamed-babaamer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mohamedbabaamer86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://medium.com/@mohamedbabaamer" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://github.com/mohamedbabaamer" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neon Divider" width="100%" />
-</p>
-
-### 💫 About Me
-
-- 🎓 Software Engineering student from Algeria 🇩🇿
-- 🌱 Currently learning **React, Java, Python, and Kotlin**
-- 💻 I enjoy building web and Android projects
-- 🤝 Open to collaborating on beginner-friendly open-source projects
-- 💬 Ask me about **HTML, CSS, Kotlin, Java, and Python**
-- ⚡ Fun fact: I love learning new technologies and improving my coding skills.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neon Divider" width="100%" />
-</p>
-
-### 🧩 Tech Stack
-
-<p align="center">
-  <img src="https://github.com/rahul-jha98/rahul-jha98/blob/main/techstack.gif" alt="Tech Stack Animation" width="500" />
-</p>
-
-| Frontend | Backend | Mobile | Tools & Design |
-|---|---|---|---|
-| React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap | Node.js, PHP, Python, Java, MySQL, SQLite, Firebase | Flutter, Dart, Kotlin, React Native, Android | Git, GitHub, Postman, Figma, Photoshop, Linux, Bash, Matlab |
-
-**Animated icons:**
-<p align="center">
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-  <a href="https://techstack-generator.vercel.app/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
-  </a>
-</p>
-
-**Everything else (skill-icons):**
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,nodejs,php,sqlite,firebase,flutter,dart,kotlin,androidstudio,git,postman,figma,photoshop,linux,bash&theme=dark" alt="More Skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neon Divider" width="100%" />
-</p>
-
-### 🏗 Featured Projects
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| UniDash | University academic management system with role-based access and course tools | React, TypeScript, UI design | Active |
-| Moadaly | Offline student average calculator with real university rules | JavaScript, calculations, UX | Active |
-| AppDownloader | Smart app installer using Winget and Chocolatey with a cleaner UI | Python, automation, desktop workflow | Active |
-| Media Tools Suite | Media, subtitle, and poster organization tools | Python, file automation | Active |
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neon Divider" width="100%" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/mohamedbabaamer">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamedbabaamer&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/mohamedbabaamer">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohamedbabaamer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github-stats-terminal-style-five.vercel.app/api/stats?username=mohamedbabaamer&theme=tokyonight">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=mohamedbabaamer&theme=tokyonight" alt="GitHub Stats Terminal" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohamedbabaamer&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedbabaamer&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neon Divider" width="100%" />
-</p>
-
-### 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mohamedbabaamer&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neon Divider" width="100%" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedbabaamer&theme=onedark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neon Divider" width="100%" />
-</p>
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neon Divider" width="100%" />
-</p>
-
-### 🎮 Interactive Contribution Demos & Games
-
-#### 🐍 Snake Contribution Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedbabaamer/mohamedbabaamer/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-#### 👾 Pac-Man Contribution Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedbabaamer/mohamedbabaamer/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedbabaamer/mohamedbabaamer/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamedbabaamer/mohamedbabaamer/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-#### 🧊 Animated 3D Contribution Calendar (Dark & Cyberpunk Themes)
-<p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=mohamedbabaamer&theme=dark" alt="3D Contribution Graph - Dark Theme" />
-</p>
-<p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=mohamedbabaamer&theme=cyberpunk" alt="3D Contribution Graph - Cyberpunk Theme" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neon Divider" width="100%" />
-</p>
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mohamed-babaamer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" /></a>
-  <a href="https://fb.com/midoobmr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" /></a>
-  <a href="https://instagram.com/midoobmr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" /></a>
-  <a href="https://medium.com/@mohamedbabaamer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium" /></a>
+  <a href="https://github.com/MohamedBabaamer/NoktiData"><img src="https://img.shields.io/badge/NoktiData-Curriculum%20%26%20Localization-16A34A?style=for-the-badge&logo=github" alt="NoktiData"></a>
+  <a href="https://github.com/MohamedBabaamer/AndroidTutorialForBeginners"><img src="https://img.shields.io/badge/AndroidTutorialForBeginners-Android%20Learning-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Android Tutorial"></a>
+  <a href="https://github.com/MohamedBabaamer/apphub-data"><img src="https://img.shields.io/badge/AppHub%20Data-App%20Catalog-F59E0B?style=for-the-badge&logo=json&logoColor=white" alt="AppHub Data"></a>
 </p>
 
 ---
 
-### 💰 Support & Donating
+## 📈 GitHub Overview
 
-If you like what I build, consider starring a repo or supporting my work. I'm always open to sharing ideas, collaborating, and building better interfaces.
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp" alt="Animated Footer Border" />
-</p>
+<a href="https://github.com/MohamedBabaamer">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedBabaamer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Mohamed Babaamer GitHub stats">
+</a>
+<a href="https://github.com/MohamedBabaamer">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBabaamer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:111827,100:0e75b6&height=120&section=footer&animation=fadeIn" alt="Footer Banner" />
-</p>
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=MohamedBabaamer&theme=tokyonight&hide_border=true" alt="GitHub streak">
+
+</div>
+
+---
+
+## 🔭 Current Direction
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**01 · Build**
+  
+Product-style web and mobile applications with clean UX and practical architecture.
+
+</td>
+<td width="33%" align="center">
+
+**02 · Learn**
+  
+Deepen skills in Flutter, Firebase, AI/ML, APIs, databases, and software engineering.
+
+</td>
+<td width="33%" align="center">
+
+**03 · Improve**
+  
+Turn coursework and prototypes into better-documented, maintainable projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/MohamedBabaamer">GitHub</a> ·
+<a href="https://linkedin.com/in/mohamed-babaamer">LinkedIn</a> ·
+<a href="https://medium.com/@mohamedbabaamer">Medium</a> ·
+<a href="mailto:mohamedbabaamer86@gmail.com">Email</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:22d3ee&height=120&section=footer&animation=fadeIn" alt="Footer">
+
+</div>
