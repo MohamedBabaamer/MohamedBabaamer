@@ -12,31 +12,31 @@
 
 <br>
 
-<img src="https://github.com/rahul-jha98/rahul-jha98/raw/main/techstack.gif" alt="Animated tech stack" width="520">
+<img src="https://github.com/rahul-jha98/rahul-jha98/raw/main/techstack.gif" alt="Animated tech stack" width="520" height="auto">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/main/assets/greetings.gif" alt="Greetings animation" width="190">
+<img src="https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/main/assets/greetings.gif" alt="Greetings animation" width="190" height="auto">
 
 <h1>👋 Hey there, I'm Mohamed Babaamer</h1>
 <h3>🇩🇿 Software Engineering Student · Developer · Builder · Lifelong Learner</h3>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=950&color=22D3EE&center=true&vCenter=true&width=880&lines=Build+useful+software.;Learn+by+doing.;Explore+Web%2C+Mobile%2C+AI%2FML+%26+Systems.;Turn+university+work+into+real+projects.;Code.+Experiment.+Improve." alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=950&color=22D3EE&center=true&vCenter=true&width=880&lines=Build+useful+software.;Learn+by+doing.;Explore+Web%2C+Mobile%2C+AI%2FML+%26+Systems.;Turn+university+work+into+real+projects.;Code.+Experiment.+Improve." alt="Typing animation" width="880" height="40">
 </p>
 
 <table>
 <tr>
-<td align="center"><img src="https://komarev.com/ghpvc/?username=MohamedBabaamer&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"></td>
-<td align="center"><img src="https://img.shields.io/github/followers/MohamedBabaamer?label=FOLLOWERS&style=for-the-badge&color=22D3EE" alt="Followers"></td>
-<td align="center"><img src="https://img.shields.io/github/stars/MohamedBabaamer?affiliations=OWNER&label=STARS&style=for-the-badge&color=F59E0B" alt="Stars"></td>
+<td align="center"><img src="https://komarev.com/ghpvc/?username=MohamedBabaamer&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" height="28"></td>
+<td align="center"><img src="https://img.shields.io/github/followers/MohamedBabaamer?label=FOLLOWERS&style=for-the-badge&color=22D3EE" alt="Followers" height="28"></td>
+<td align="center"><img src="https://img.shields.io/github/stars/MohamedBabaamer?affiliations=OWNER&label=STARS&style=for-the-badge&color=F59E0B" alt="Stars" height="28"></td>
 </tr>
 </table>
 
 <p>
-  <a href="https://github.com/MohamedBabaamer?tab=repositories"><img src="https://img.shields.io/badge/🗂%20EXPLORE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
-  <a href="https://voxlearn.netlify.app/"><img src="https://img.shields.io/badge/🎓%20VOXLEARN-LIVE-2563EB?style=for-the-badge" alt="Voxlearn live"></a>
-  <a href="https://noqti.netlify.app/"><img src="https://img.shields.io/badge/🎯%20NOKTI-LIVE-16A34A?style=for-the-badge" alt="Nokti live"></a>
+  <a href="https://github.com/MohamedBabaamer?tab=repositories"><img src="https://img.shields.io/badge/🗂%20EXPLORE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" height="28"></a>
+  <a href="https://voxlearn.netlify.app/"><img src="https://img.shields.io/badge/🎓%20VOXLEARN-LIVE-2563EB?style=for-the-badge" alt="Voxlearn live" height="28"></a>
+  <a href="https://noqti.netlify.app/"><img src="https://img.shields.io/badge/🎯%20NOKTI-LIVE-16A34A?style=for-the-badge" alt="Nokti live" height="28"></a>
 </p>
 
 </div>
@@ -77,11 +77,11 @@ I move between **web interfaces, mobile applications, backend services, database
 
 <td width="36%" align="center" valign="middle">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedBabaamer&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Trail" alt="Contribution trail">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedBabaamer&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Trail" alt="Contribution trail" width="100%" height="170">
 
 <br>
 
-<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=mohamedbabaamer&theme=tokyonight" alt="Terminal style GitHub stats" width="100%">
+<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=mohamedbabaamer&theme=tokyonight" alt="Terminal style GitHub stats" width="100%" height="170">
 
 </td>
 </tr>
@@ -93,15 +93,15 @@ I move between **web interfaces, mobile applications, backend services, database
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap&perline=8" alt="Web development">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap&perline=8" alt="Web development" height="58">
 <br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&perline=8" alt="Mobile development">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&perline=8" alt="Mobile development" height="58">
 <br>
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r,matlab&perline=8" alt="AI and data">
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r,matlab&perline=8" alt="AI and data" height="58">
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,php,firebase,supabase,mysql,sqlite&perline=8" alt="Backend and database">
+<img src="https://skillicons.dev/icons?i=nodejs,php,firebase,supabase,mysql,sqlite&perline=8" alt="Backend and database" height="58">
 <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,go,java,git,github,linux,bash,docker&perline=9" alt="Systems and tooling">
+<img src="https://skillicons.dev/icons?i=c,cpp,go,java,git,github,linux,bash,docker&perline=9" alt="Systems and tooling" height="58">
 
 </div>
 
@@ -138,7 +138,7 @@ I move between **web interfaces, mobile applications, backend services, database
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827" alt="Supabase">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
   <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
@@ -406,10 +406,10 @@ PCA, clustering, association rules, recommender systems, visualization, and R/Py
 </table>
 
 <p align="center">
-  <a href="https://github.com/MohamedBabaamer/flex-bison-labs"><img src="https://img.shields.io/badge/Flex%2FBison-Compiler%20Labs-7C3AED?style=for-the-badge" alt="Flex Bison"></a>
-  <a href="https://github.com/MohamedBabaamer/ARL_Networking_Exercises"><img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Networking-0EA5E9?style=for-the-badge" alt="Networking"></a>
-  <a href="https://github.com/MohamedBabaamer/Database_Labs"><img src="https://img.shields.io/badge/MySQL-Database%20Labs-16A34A?style=for-the-badge&logo=mysql&logoColor=white" alt="Database labs"></a>
-  <a href="https://github.com/MohamedBabaamer/MVCSortSearch"><img src="https://img.shields.io/badge/Java-Algorithm%20Visualizer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Algorithm visualizer"></a>
+  <a href="https://github.com/MohamedBabaamer/flex-bison-labs"><img src="https://img.shields.io/badge/Flex%2FBison-Compiler%20Labs-7C3AED?style=for-the-badge" alt="Flex Bison" height="28"></a>
+  <a href="https://github.com/MohamedBabaamer/ARL_Networking_Exercises"><img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Networking-0EA5E9?style=for-the-badge" alt="Networking" height="28"></a>
+  <a href="https://github.com/MohamedBabaamer/Database_Labs"><img src="https://img.shields.io/badge/MySQL-Database%20Labs-16A34A?style=for-the-badge&logo=mysql&logoColor=white" alt="Database labs" height="28"></a>
+  <a href="https://github.com/MohamedBabaamer/MVCSortSearch"><img src="https://img.shields.io/badge/Java-Algorithm%20Visualizer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Algorithm visualizer" height="28"></a>
 </p>
 
 ---
@@ -445,20 +445,20 @@ PCA, clustering, association rules, recommender systems, visualization, and R/Py
 
 <div align="center">
 
-<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=mohamedbabaamer&theme=tokyonight" alt="Terminal style statistics" width="780">
+<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=mohamedbabaamer&theme=tokyonight" alt="Terminal style statistics" width="760" height="170">
 
 <br><br>
 
 <a href="https://github.com/MohamedBabaamer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedBabaamer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedBabaamer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" width="48%" height="170">
 </a>
 <a href="https://github.com/MohamedBabaamer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBabaamer&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBabaamer&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" width="48%" height="170">
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=MohamedBabaamer&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com/?user=MohamedBabaamer&theme=tokyonight&hide_border=true" alt="GitHub streak" width="600" height="auto">
 
 </div>
 
@@ -472,7 +472,7 @@ PCA, clustering, association rules, recommender systems, visualization, and R/Py
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedBabaamer/MohamedBabaamer/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedBabaamer/MohamedBabaamer/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/MohamedBabaamer/MohamedBabaamer/output/github-contribution-grid-snake.svg" alt="Snake contribution drawing">
+    <img src="https://raw.githubusercontent.com/MohamedBabaamer/MohamedBabaamer/output/github-contribution-grid-snake.svg" alt="Snake contribution drawing" width="100%" height="auto">
   </picture>
 </p>
 
@@ -482,14 +482,14 @@ PCA, clustering, association rules, recommender systems, visualization, and R/Py
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedBabaamer/MohamedBabaamer/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedBabaamer/MohamedBabaamer/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/MohamedBabaamer/MohamedBabaamer/output/pacman-contribution-graph.svg" alt="Pac-Man contribution drawing">
+    <img src="https://raw.githubusercontent.com/MohamedBabaamer/MohamedBabaamer/output/pacman-contribution-graph.svg" alt="Pac-Man contribution drawing" width="100%" height="auto">
   </picture>
 </p>
 
 ### 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=MohamedBabaamer&theme=dark" alt="3D contribution calendar">
+  <img src="https://github-readme-3d-contrib.vercel.app/api?username=MohamedBabaamer&theme=dark" alt="3D contribution calendar" width="100%" height="auto">
 </p>
 
 ---
@@ -497,7 +497,7 @@ PCA, clustering, association rules, recommender systems, visualization, and R/Py
 ## ╔═══ 🏆 Trophy Wall ═══╗
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedBabaamer&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedBabaamer&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub trophies" width="100%" height="auto">
 </p>
 
 ---
@@ -505,7 +505,7 @@ PCA, clustering, association rules, recommender systems, visualization, and R/Py
 ## ╔═══ 💬 Developer Corner ═══╗
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" width="700" height="auto">
 </div>
 
 ---
@@ -514,10 +514,10 @@ PCA, clustering, association rules, recommender systems, visualization, and R/Py
 
 <div align="center">
 
-<a href="https://github.com/MohamedBabaamer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://linkedin.com/in/mohamed-babaamer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://medium.com/@mohamedbabaamer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-<a href="mailto:mohamedbabaamer86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/MohamedBabaamer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"></a>
+<a href="https://linkedin.com/in/mohamed-babaamer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>
+<a href="https://medium.com/@mohamedbabaamer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="28"></a>
+<a href="mailto:mohamedbabaamer86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"></a>
 
 <br><br>
 
@@ -545,7 +545,7 @@ PCA, clustering, association rules, recommender systems, visualization, and R/Py
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp" alt="Animated footer illustration" width="100%">
+  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp" alt="Animated footer illustration" width="100%" height="auto">
 </p>
 
 <div align="center">
