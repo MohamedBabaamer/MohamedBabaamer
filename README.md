@@ -42,7 +42,7 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated neon divider" width="100%">
+  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/hr.webp" alt="Animated section divider" width="100%" height="18">
 </p>
 
 ## ╔═══ 🧑‍💻 About Me ═══╗
@@ -77,7 +77,7 @@ I move between **web interfaces, mobile applications, backend services, database
 
 <td width="36%" align="center" valign="middle">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedBabaamer&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Trail" alt="Contribution trail" width="100%" height="170">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedBabaamer&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Trail" alt="Contribution trail" width="100%" height="170">\n\n<br>\n\n<img src="https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/main/assets/dev-working_rounded.gif" alt="Developer working animation" width="100%" height="auto">
 
 <br>
 
